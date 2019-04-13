@@ -1,0 +1,5 @@
+C:\Github\ASP-NET\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+C:\Github\ASP-NET\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+C:\Github\ASP-NET\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csproj.CoreCompileInputs.cache
+C:\Github\ASP-NET\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+C:\Github\ASP-NET\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb

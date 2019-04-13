@@ -1,0 +1,14 @@
+C:\Github\ASP-NET\DevStore\Data\bin\Debug\Data.dll.config
+C:\Github\ASP-NET\DevStore\Data\bin\Debug\Data.dll
+C:\Github\ASP-NET\DevStore\Data\bin\Debug\Data.pdb
+C:\Github\ASP-NET\DevStore\Data\bin\Debug\DevStore.Domain.dll
+C:\Github\ASP-NET\DevStore\Data\bin\Debug\EntityFramework.dll
+C:\Github\ASP-NET\DevStore\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Github\ASP-NET\DevStore\Data\bin\Debug\DevStore.Domain.pdb
+C:\Github\ASP-NET\DevStore\Data\bin\Debug\EntityFramework.xml
+C:\Github\ASP-NET\DevStore\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Github\ASP-NET\DevStore\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Github\ASP-NET\DevStore\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Github\ASP-NET\DevStore\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Github\ASP-NET\DevStore\Data\obj\Debug\Data.dll
+C:\Github\ASP-NET\DevStore\Data\obj\Debug\Data.pdb
